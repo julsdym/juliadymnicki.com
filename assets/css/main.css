@@ -111,7 +111,7 @@ input, select, textarea {
 		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
-		color: #49bf9d;
+		color: #eb73db;
 		text-decoration: none;
 	}
 
@@ -2251,6 +2251,7 @@ input, select, textarea {
 		margin-left: -1em;
 		padding-left: 0;
 	}
+	
 
 		ul.actions li {
 			padding: 0 0 0 1em;
@@ -2430,6 +2431,8 @@ input, select, textarea {
 			}
 
 /* Button */
+
+
 
 	input[type="submit"],
 	input[type="reset"],
